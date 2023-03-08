@@ -1,3 +1,4 @@
+![headshot](image.jpg)
 # About Me
 Hello, my name is Akshay and I currently work as a VMware administrator at M3BI. I am excited to share some information about myself in this README, as I am an aspiring DevOps engineer looking to further develop my skills and knowledge in this field
 
